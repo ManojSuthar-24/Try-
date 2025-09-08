@@ -1,6 +1,0 @@
-projectKey=com.ual:Demo
-serverUrl=http://localhost:9003
-serverVersion=25.8.0.112029
-dashboardUrl=http://localhost:9003/dashboard?id=com.ual%3ADemo
-ceTaskId=38673e78-88b5-4c1f-bcd2-2a0dbde9667e
-ceTaskUrl=http://localhost:9003/api/ce/task?id=38673e78-88b5-4c1f-bcd2-2a0dbde9667e

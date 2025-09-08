@@ -41,6 +41,13 @@
     <version>1.18.34</version>
     </dependency>
   </dependencies>
+ <distributionManagement>
+		<repository>
+		<id>artifactory</id>
+		<name>Capstone</name>
+		<url>http://localhost:8081/artifactory/Capstone</url>
+		</repository>
+ </distributionManagement>
 <build>
 	<plugins>
 			<plugin>
